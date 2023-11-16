@@ -83,4 +83,4 @@ rm -rf feeds/packages/lang/golang
 svn co https://github.com/openwrt/packages/branches/openwrt-22.03/lang/golang feeds/packages/lang/golang
 ```
 
-Forked from https://github.com/fw876/helloworld.git;main
+Forked from https://github.com/fw876/helloworld.git Thanks ;)
